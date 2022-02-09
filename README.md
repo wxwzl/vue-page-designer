@@ -1,6 +1,6 @@
 # vue-page-designer
 
-## vue2.0版本
+## vue2.0版本（持续迭代中...）
 
 详见：http://vue2.designer.majibang.com/home
 
