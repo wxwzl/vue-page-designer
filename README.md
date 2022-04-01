@@ -2,7 +2,7 @@
 
 ## vue2.0版本（持续迭代中...）
 
-详见：http://vue2.designer.majibang.com/page-design-add
+详见：http://vue2.designer.majibang.com/
 
 ## 已完成功能列表
 
